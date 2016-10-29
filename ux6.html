@@ -1,0 +1,37 @@
+        <div class="row centered"> 
+            <div class="col-lg-7">
+                <div id="owl-demo" class="owl-carousel owl-theme">
+                    <div class="item"><a href="http://lizchuah.people.si.umich.edu/blindpig/"><img src="assets/img/portfolio/thumbnails/ResponsiveDesign.png" alt="Blind Pig"><p>Blind Pig Redesign with Bootstrap</p></a></div>
+                    <div class="item"><a href="http://lizchuah.people.si.umich.edu/539portfolio/"><img src="assets/img/portfolio/thumbnails/539Portfolio.png" alt="Portfolio"><p>Personal Portfolio Design with Media Queries</p></a></div>
+                </div> 
+            </div>
+            <div class="col-lg-5 justify">
+                    <h4 class="centered">WEB DESIGN</h4>
+                    <br>
+                    <p>The <a href="http://lizchuah.people.si.umich.edu/blindpig/">Blind Pig</a> is a responsive web design group project made with Bootstrap incorporating PHP for template design and Javascript for form validation.</p>
+                    <p>The Blind Pig's original site can be viewed at <a href="http://www.blindpigmusic.com/">www.blindpigmusic.com</a>.
+                    <br>
+                    <bt>Note: Site design may have changed since the time of writing.</bt></p>
+                    <p>A <a href="http://lizchuah.people.si.umich.edu/539portfolio/">personal portfolio</a> was created for a class with HTML5/CSS3, Javascript, PHP, and Media Queries for responsiveness.</p>
+                    <p>Both sites focused on:</p>
+                    <ul>
+                        <li>Mobile-First Design</li>
+                        <li>Accessibility</li>
+                        <li>Responsiveness</li>
+                    </ul>
+                    <br>
+            </div>
+        </div><!-- /row -->
+
+        <script>
+        $(document).ready(function() {
+            
+            $("#owl-demo").owlCarousel({
+                navigation : true, // Show next and prev buttons
+                slideSpeed : 300,
+                paginationSpeed : 400,
+                singleItem:true
+            });
+        
+        });
+        </script>
