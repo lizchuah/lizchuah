@@ -47,15 +47,15 @@
 					<img src="assets/img/portfolio/Personal Branding/LC-GD-Logotype.png" alt="Liz Chuah" />
 					<h1 class="invisible">Liz Chuah</h1>
 					<p class="invisible">UX Researcher & Designer | Graphic Designer | Photographer | Videographer</p>
-				
+
 				</div><!-- /col-lg-8 -->
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /ww -->
-	
-	
+
+
 	<!-- +++++ Projects Section +++++ -->
-	
+
 	<div class="container">
         <div class="row mt">
             <div class="col-lg-6 col-lg-offset-3 centered">
@@ -65,34 +65,34 @@
         </div>
 		<div class="row mt centered">
             <div class="col-lg-4">
-                <a class="zoom green" href="ux.php"><img class="img-responsive" src="assets/img/portfolio/thumbnails/bcbsm-logo-sm.jpg" alt="Digital Experience Enhancement" /></a>
+                <a class="zoom green" href="ux.php?id=1"><img class="img-responsive" src="assets/img/portfolio/thumbnails/bcbsm-logo-sm.jpg" alt="Digital Experience Enhancement" /></a>
                 <p>BCBSM<br>Digital Experience Enhancement</p>
             </div>
             <div class="col-lg-4">
-                <a class="zoom green" href="ux.php"><img class="img-responsive" src="assets/img/portfolio/thumbnails/myfab5_sm.png" alt="Mobile & Web Application Design" /></a>
+                <a class="zoom green" href="ux.php?id=2"><img class="img-responsive" src="assets/img/portfolio/thumbnails/myfab5_sm.png" alt="Mobile & Web Application Design" /></a>
                 <p>MYFAB5<br>Mobile & Web Application Design</p>
-            </div>	
+            </div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="ux.php"><img class="img-responsive" src="assets/img/portfolio/thumbnails/company_sm.png" alt="Usability Testing" /></a>
+				<a class="zoom green" href="ux.php?id=3"><img class="img-responsive" src="assets/img/portfolio/thumbnails/company_sm.png" alt="Usability Testing" /></a>
                 <p>COUPA<br>Usability Testing</p>
 			</div>
 		</div><!-- /row -->
-		<div class="row mt centered">	
+		<div class="row mt centered">
 			<div class="col-lg-4">
-				<a class="zoom green" href="ux.php"><img class="img-responsive" src="assets/img/portfolio/thumbnails/thetasker_thumb.png" alt="Interaction Design" /></a>
+				<a class="zoom green" href="ux.php?id=4"><img class="img-responsive" src="assets/img/portfolio/thumbnails/thetasker_thumb.png" alt="Interaction Design" /></a>
                 <p>THE TASKER<br>Interaction Design</p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="ux.php"><img class="img-responsive" src="assets/img/portfolio/thumbnails/ResponsiveDesign.png" alt="Web Design" /></a>
+				<a class="zoom green" href="ux.php?id=6"><img class="img-responsive" src="assets/img/portfolio/thumbnails/ResponsiveDesign.png" alt="Web Design" /></a>
                 <p>BLIND PIG<br>Web design</p>
 			</div>
              <div class="col-lg-4">
-                <a class="zoom green" href="graphic.php"><img class="img-responsive" src="assets/img/portfolio/thumbnails/Knowmadika_thumb.png" alt="Knowmadika Branding" /></a>
+                <a class="zoom green" href="graphic.php?id=2"><img class="img-responsive" src="assets/img/portfolio/thumbnails/Knowmadika_thumb.png" alt="Knowmadika Branding" /></a>
                 <p>KNOWMADIKA<br>Graphic Design</p>
             </div>
 		</div><!-- /row -->
 	</div><!-- /container -->
-	
+
 <!--     <div class="col-lg-4">
                 <a class="zoom green" href="graphic.php"><img class="img-responsive" src="assets/img/portfolio/thumbnails/LC-GD-Logo-thumb.png" alt="Personal Branding" /></a>
                 <p>PERSONAL BRANDING<br>Graphic Design</p>
@@ -102,7 +102,7 @@
         include ('footer.php');
     ?>
 
-	
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

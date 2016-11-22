@@ -36,12 +36,12 @@
     <?php
         $fileName = basename (__FILE__);
     ?>
-    
+
     <?php
         include ('header.php');
     ?>
 
-	
+
 	<!-- +++++ Project +++++ -->
     <div class="container">
         <div class="row mt">
@@ -57,7 +57,7 @@
         </div><!-- /row -->
 
     </div><!-- /container -->
-	
+
     <div class="container">
         <div class="row centered">
             <div class="span12">
@@ -84,7 +84,7 @@
     <?php
         include ('footer.php');
     ?>
-	
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -94,21 +94,21 @@
     <script>
     $(document).ready(function() {
 
-        $(".container#project_content").load("ux1.html").fadeIn('slow');
+        $(".container#project_content").load("ux<?php echo isset($_GET['id']) ? intval($_GET['id']) : 1?>.html").fadeIn('slow');
 
 
         $("#owl-demo").owlCarousel({
             items : 4,
             lazyLoad : false,
             navigation : true
-            }); 
- 
+            });
+
     });
 
     $("figure").click(function(){
         filename = this.id+".html"
         $(".container#project_content").fadeOut("slow").load(filename).fadeIn('slow');
-    });  
+    });
     </script>
 
     <script src="assets/owl.carousel/owl-carousel/owl.carousel.js"></script>
