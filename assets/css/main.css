@@ -94,17 +94,20 @@ a:after {
 }
 
 .navbar-inverse {
-	padding-bottom: 50px;
-	padding-top: 60px;
+	padding-bottom: 15px;
+	padding-top: 25px;
 }
 
 .navbar-inverse {
-	background-color: #9ED5D8;
-	border-color: #659FB5;
+	background-color: #7caaad;
+	border-color: #6c9eb1;
+    /*#9ED5D8
+    #659FB5*/
 }
 
 .navbar-inverse .navbar-nav > li > a {
-	color: #53595C;
+	color: #f4f8fb;
+    /*#53595C*/
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
@@ -118,7 +121,8 @@ a:after {
 }
 
 .navbar-inverse .navbar-brand {
-	color: #53595C;
+	color: #e4e8ea;
+    /*#53595C*/
 }
 
 .navbar-inverse .navbar-toggle {
@@ -130,7 +134,7 @@ a:after {
 }
 
 .current {
-    background-color: #FFFFFF;
+    background-color: #c1c1c1;
 }
 
 /* Helpers */
