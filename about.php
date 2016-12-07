@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+    <link rel="shortcut icon" href="assets/img/favicon/favicon32.png">
 
-    <title>About - Liz Chuah</title>
+    <title>About - Liz Schemanski</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -43,13 +43,13 @@
 	    <div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 centered">
-					<img src="assets/img/about_profile-e-sq.png" alt="Liz Chuah">
+					<img src="assets/img/about_profile-e-sq.png" alt="Liz Schemanski">
 					<h1>About Liz</h1>
 					<p>I am a User Experience Designer based in Detroit, MI. I graduated in 2016 with a Master of Science degree in Information (MSI) specializing in Human-Computer Interaction (HCI) from the University of Michigan School of Information (UMSI).</p>
                     <p>I have experience working in both the user-centered design process and Agile. I always strive to work productively through effective written and verbal communication with external clients and colleagues.  I am committed to enhance user experience, increase process efficiency, and improve system ease-of-use.
                         Some of my skills include user experience research and design, graphic/visual design, photography, and videography.</p>
-                    <p>I currently reside in Ann Arbor, MI where I enjoy the four beautiful seasons of the Midwest.</p>
-                    <p>If you have any questions about my work and qualifications (or even if you just want to drop a message and say hello), you are most welcome to email me at <a href='lizchuah@umich.edu'>lizchuah@umich.edu</a> or send a message through the contact form below.</p>
+                    <p>I currently reside in Ann Arbor, MI where I enjoy the four beautiful seasons of the Midwest.<br>By the way, you may have noticed some of my works prior to 2016 credits someone named Liz Chuah. Rest assured, that's still me! Chuah is just my maiden name.</p>
+                    <p>If you have any questions about my work and qualifications (or even if you just want to drop a message and say hello), you are most welcome to email me at <a href="mailto:lizschemanski@gmail.com">lizschemanski (at) gmail (dot) com</a> or send a message through the contact form below.</p>
 				
 				</div><!-- /col-lg-8 -->
 			</div><!-- /row -->

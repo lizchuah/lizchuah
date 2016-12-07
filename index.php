@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+    <link rel="shortcut icon" href="assets/img/favicon/favicon32.png">
 
-    <title>Liz Chuah</title>
+    <title>Liz Schemanski</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -44,8 +44,8 @@
 	    <div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 centered">
-					<img src="assets/img/portfolio/Personal Branding/LC-GD-Logotype.png" alt="Liz Chuah" />
-					<h1 class="invisible">Liz Chuah</h1>
+					<img src="assets/img/LS_logo.png" alt="Liz Schemanski" />
+					<h1 class="invisible">Liz Schemanski</h1>
 					<p class="invisible">UX Researcher & Designer | Graphic Designer | Photographer | Videographer</p>
 
 				</div><!-- /col-lg-8 -->

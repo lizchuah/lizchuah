@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php"><img src="assets/img/LC-Logo2_smport.png" alt="Liz Chuah" />Liz Chuah</a>
+          <a class="navbar-brand" href="index.php"><img src="assets/img/LS_logo_sm.png" alt="Liz Schemanski" />Liz Schemanski</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">

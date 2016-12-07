@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+    <link rel="shortcut icon" href="assets/img/favicon/favicon32.png">
 
-    <title>Videography - Liz Chuah</title>
+    <title>Videography - Liz Schemanski</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -59,13 +59,13 @@
             </div>
             <div class="col-lg-5">
                 <h4>THAT DAY (2014)</h4>
-                <p>Short film based on a true story of a young couple in Adelaide, Australia.</p>
+                <p>Short film based on a true story in Adelaide, Australia.</p>
                 <p><a href="assets/img/portfolio/Sketches/ThatDay(2014)-Proposal-Scene-Storyboard.png" alt="Proposal Scene Storyboard">Proposal Scene Storyboard</a>
                 </p>
-                <p><bt>WRITTEN & DIRECTED: Liz Chuah
+                <p><bt>WRITTEN & DIRECTED: Liz Schemanski
                     <br>FEATURING: Jen Min Chuah, Wei Yan Teo&nbsp;&nbsp;&nbsp;&nbsp;
-                       CINEMATOGRAPHY: Liz Chuah
-                       MUSIC: Dexter Britain&nbsp;&nbsp;&nbsp;&nbsp;
+                    <br>CINEMATOGRAPHY: Liz Schemanski
+                    <br>MUSIC: Dexter Britain&nbsp;&nbsp;&nbsp;&nbsp;
                        SPECIAL THANKS: Hui Linn Lee, Caroline Henry, Angeline Yee, Suree's Thai Kitchen&nbsp;&nbsp;&nbsp;&nbsp;
                        EDITED WITH: Final Cut Pro X</bt>
                        <br>
@@ -78,7 +78,7 @@
             <div class="col-lg-5">
                 <h4>Siqi & Howard's Wedding (2014)</h4>
                 <p>A wedding filmed in San Francisco, CA.</p>
-                <p><bt>FILMED & EDITED BY: Liz Chuah
+                <p><bt>FILMED & EDITED BY: Liz Schemanski
                     <br>FEATURING: Siqi Lu, Howard Hsing&nbsp;&nbsp;&nbsp;&nbsp;
                        EDITED WITH: Final Cut Pro X</bt>
                        <br>
@@ -93,7 +93,7 @@
                 <p>Assisted in multimedia documentary by Inez Joewono.</p>
                 <p><bt>FILMED BY: Inez Joewono
                     <br>
-                    AUDIO ASSISTANT: Liz Chuah
+                    AUDIO ASSISTANT: Liz Schemanski
                     <br>
                     <br><bt>Client: <a href="http://www.inezjoewono.com/">InezJoewono.com</a></bt> - <bt>Type: Documentary</bt> - <bt>Date: November 2011</bt></p>
             </div>
