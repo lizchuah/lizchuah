@@ -14,8 +14,8 @@
                 <div class="col-lg-4">
                     <h4>My Links</h4>
                     <p>
-                        <a href="http://www.linkedin.com/in/lizchuah">LinkedIn</a><br/>
-                        <a href="assets/img/[2016.11.20]-Liz-Schemanski-Resume.pdf">Resume</a><br/>
+                        <a href="http://www.linkedin.com/in/lizchuah" target="_blank">LinkedIn</a><br/>
+                        <a href="http://lizschemanski.s3.us-east-2.amazonaws.com/resume.pdf" target="_blank">Resume</a><br/>
                     </p>
                 </div><!-- /col-lg-4 -->
                 
