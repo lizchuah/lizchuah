@@ -49,11 +49,12 @@
 					<p class="">
 						This site is currently being updated and refreshed but is still available for browsing.
 						<br>
-						In the meantime, please take a look at my PDF portfolio with my latest projects.
+						
+						In the meantime, check out my latest projects on the PDF version of my portfolio.
 					</p>
 					<button type="button" class="btn btn-lg" style="background-color: #7caaad;">
 						<a href="http://lizschemanski.s3.us-east-2.amazonaws.com/portfolio.pdf" style="color: white; font-weight: bold" target="_blank">
-							Check Out My Latest Projects! (PDF)
+							Check Out My Latest Projects!
 						</a>
 					</button>
 					<h1 class="invisible">Liz Schemanski</h1>
