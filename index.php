@@ -45,6 +45,17 @@
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 centered">
 					<img src="assets/img/LS_logo.png" alt="Liz Schemanski" />
+					<h1 class="">Update in Progress!</h1>
+					<p class="">
+						This site is currently being updated and refreshed but is still available for browsing.
+						<br>
+						In the meantime, please take a look at my PDF portfolio with my latest projects.
+					</p>
+					<button type="button" class="btn btn-lg" style="background-color: #7caaad;">
+						<a href="http://lizschemanski.s3.us-east-2.amazonaws.com/portfolio.pdf" style="color: white; font-weight: bold" target="_blank">
+							Check Out My Latest Projects! (PDF)
+						</a>
+					</button>
 					<h1 class="invisible">Liz Schemanski</h1>
 					<p class="invisible">UX Researcher & Designer | Graphic Designer | Photographer | Videographer</p>
 
