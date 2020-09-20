@@ -70,7 +70,7 @@
 	<div class="container">
         <div class="row mt">
             <div class="col-lg-6 col-lg-offset-3 centered">
-                <h3>LATEST WORK</h3>
+                <h3>PREVIOUS WORK</h3>
                 <hr>
             </div>
         </div>
